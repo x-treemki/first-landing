@@ -13,7 +13,7 @@ body {
     height: 100vh;
     align-items: center;
     min-height: 600px;
-    background: main-bg.png no-repeat center;
+    background: url(main-bg.png) no-repeat center;
     background-size: cover;
     position: relative;
 }
