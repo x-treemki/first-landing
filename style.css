@@ -13,7 +13,7 @@ body {
     height: 100vh;
     align-items: center;
     min-height: 600px;
-    background: url(../img/main-bg.png) no-repeat center;
+    background: url(main-bg.png) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -202,7 +202,7 @@ font-size: 80px;
     transition: 0.3s;
 }
 .footer {
-    background-image: url(../img/footur-bg.png);
+    background-image: url(footur-bg.png);
     color: seashell;
     display: flex;
     flex-direction: column;
